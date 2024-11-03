@@ -1,0 +1,13 @@
+directory:
+  name: 0_template
+  path: ../easy/
+files:
+  - file: case.txt
+    name: case_1.txt
+  - file: case.txt
+    name: case_2.txt
+  - file: case.txt
+    name: case_3.txt
+  - file: main.py
+  - file: solution.py
+  - file: test_solution.py
